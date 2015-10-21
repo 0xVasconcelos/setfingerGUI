@@ -1,0 +1,26 @@
+{
+  "name": "setfingergui",
+  "version": "0.0.1",
+  "description": "GUI for SET-FINGER",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js -test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaslg26/setfingerGUI"
+  },
+  "keywords": [
+    "setfinger",
+    "gui",
+    "fingerprint"
+  ],
+  "author": "Lucas Vasconcelos (@lucaslg26)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lucaslg26/setfingerGUI/issues"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "~0.34.0"
+  }
+}
